@@ -1,5 +1,5 @@
 # kuzrwkd
 
-![logo](./brand/kuzrwkd.jpg "ロゴ")
+![logo](./brand/kuzrwkd.gif "ロゴ")
 
 こんにちは、アドバーグ・エルドルです。
